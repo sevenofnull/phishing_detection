@@ -34,9 +34,13 @@ temporar(il)?y\sdeactivated
 secure\supdate  
 (S|s)ecure(-|\s)(E|e)?(M|m)ail  
 (E|e)mployee\s(B|b)enefits\s(P|p)olicy
+((E|e)-)?(M|m)ail\s(A|a)ccount\s(N|n)otice  
 
 ### French
 (V|v)otre\scompte\sest\sbloqu(é|e)  
+
+### Spanish
+(D|d)etectamos\sum\s(P|p)roblema  
 
 ### Chinese
 安全警报  
