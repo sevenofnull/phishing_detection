@@ -64,20 +64,20 @@ secure\supdate
 ## Mail-Body contains the following regex
 
 ### English
-(Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto
-that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount
-(I|i)nformations\shas\sbeen
-(C|c)onfirm\syour\s(I|i)nformations
-(F|f)ailed\sto\svalidate
-(U|u)nable\sto\sverify
-(A|a)ctivate\syour\saccount
-(U|u)pdate\syour\spayment
-(M|m)ultiple\slogin\sattempt
-(T|t)rying\sto\saccess\syour\s(\w+(-\w+)?\s)?(A|a)ccount
-restricted\sif\syou\sfail\sto\supdate
-update\sin\sour\ssecurity
-update\syour\s(\w+(-\w+)?\s)?(A|a)ccount\s(I|i)nformation
-update\sin\sour\s(S|s)ecurity
+(Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto  
+that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
+(I|i)nformations\shas\sbeen  
+(C|c)onfirm\syour\s(I|i)nformations  
+(F|f)ailed\sto\svalidate  
+(U|u)nable\sto\sverify  
+(A|a)ctivate\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
+(U|u)pdate\syour\spayment  
+(M|m)ultiple\slogin\sattempt  
+(T|t)rying\sto\saccess\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
+restricted\sif\syou\sfail\sto\supdate  
+update\sin\sour\ssecurity  
+update\syour\s(\w+(-\w+)?\s)?(A|a)ccount\s(I|i)nformation  
+
 
 ## Thanks
 SwiftOnSecurity for the starting point
