@@ -1,7 +1,10 @@
 # Phishing detection
 
+Just for clarification, this will help to catch mass phishing emails.
+
 ## Subject contains the following regex
 
+### English
 (S|s)hared\s(U|u)sing\s(O|o)ne(D|d)rive\s(F|f)or\s(B|b)usiness  
 (S|s)ecurity(\s|-|\s-\s)?((A|a)lert|(W|w)arning|(I|i)nfo(rmation)?)  
 ((N|n)ew|(M|m)issed)\s(M|m)essage(s)?  
@@ -22,13 +25,19 @@ has\sbeen\ssuspended
 (V|v)erification(s)?\s((R|r)equired|(N|n)otification|(R|r)equest)  
 temporar(il)?y\sdeactivated  
 secure\supdate  
-(V|v)otre\scompte\sest\sbloqu(é|e)  
 (S|s)ecure(-|\s)(E|e)?(M|m)ail  
-(E|e)mployee\s(B|b)enefits\s(P|p)olicy  
+(E|e)mployee\s(B|b)enefits\s(P|p)olicy
+
+### French
+(V|v)otre\scompte\sest\sbloqu(é|e)  
+
+### Chinese
 安全警报  
 需要操作  
 郵箱已滿  
 
 
 ## Mail-Body contains the following regex
+
+Comming soon
 
