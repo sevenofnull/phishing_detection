@@ -3,11 +3,13 @@
 Just for clarification, this will help to catch mass phishing emails.  
 Not customized for you (your company).
 
-If it sounds like a duck,  
-walk like a duck and  
+If it looks like a duck,  
+walks like a duck and  
 sounds like a duck.  
 Hover over the link...  
 It's a phish.  
+
+The list will be updated every now and then  
 
 ## Subject contains the following regex
 
@@ -42,13 +44,40 @@ secure\supdate
 ### Spanish
 (D|d)etectamos\sum\s(P|p)roblema  
 
+### German
+(Ü|ü)berprüfung\serforderlich
+
+### Swedish
+(D|)u\shar\s\((\d+\)\s)?hållit\se(-)?postmeddelande(n)?
+
 ### Chinese
 安全警报  
 需要操作  
 郵箱已滿  
 
+## Mail-Body contains the following
+
+/wp-admin/  
+/wp-incude/  
+\.xyz/  
 
 ## Mail-Body contains the following regex
 
-Working on it
+### English
+(Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto
+that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount
+(I|i)nformations\shas\sbeen
+(C|c)onfirm\syour\s(I|i)nformations
+(F|f)ailed\sto\svalidate
+(U|u)nable\sto\sverify
+(A|a)ctivate\syour\saccount
+(U|u)pdate\syour\spayment
+(M|m)ultiple\slogin\sattempt
+(T|t)rying\sto\saccess\syour\s(\w+(-\w+)?\s)?(A|a)ccount
+restricted\sif\syou\sfail\sto\supdate
+update\sin\sour\ssecurity
+update\syour\s(\w+(-\w+)?\s)?(A|a)ccount\s(I|i)nformation
+update\sin\sour\s(S|s)ecurity
 
+## Thanks
+SwiftOnSecurity for the starting point
