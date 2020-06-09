@@ -33,9 +33,9 @@ has\sbeen\ssuspended
 (A|a)ccount\s(is\s)?on\shold  
 (V|v)erification(s)?\s((R|r)equired|(N|n)otification|(R|r)equest)  
 temporar(il)?y\sdeactivated  
-secure\supdate  
+(S|s|\W)(e|\W)c(u|\W)r(e|\W)\s(U|u|\W)pd(a|\W)t(e|\W)  
 (S|s)ecure(-|\s)(E|e)?(M|m)ail  
-(E|e)mployee\s(B|b)enefits\s(P|p)olicy
+(E|e)mployee\s(B|b)enefits\s(P|p)olicy  
 ((E|e)-)?(M|m)ail\s(A|a)ccount\s(N|n)otice  
 h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s\d+\s(S|s|\W)(e|\W)c(o|\W)nd(\(s\))?\sl(o|\W)ng  
 
