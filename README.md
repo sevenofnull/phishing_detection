@@ -37,6 +37,7 @@ secure\supdate
 (S|s)ecure(-|\s)(E|e)?(M|m)ail  
 (E|e)mployee\s(B|b)enefits\s(P|p)olicy
 ((E|e)-)?(M|m)ail\s(A|a)ccount\s(N|n)otice  
+h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s\d+\s(S|s|\W)(e|\W)c(o|\W)nd(\(s\))?\sl(o|\W)ng  
 
 ### French
 (V|v)otre\scompte\sest\sbloqu(é|e)  
