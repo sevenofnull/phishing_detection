@@ -24,9 +24,14 @@ The list will be updated every now and then
 ##### Security - Alert or Security Alert or Security Warning or Security Info or Security - Information
 (S|s|\W)(e|\W)(c|\W)(u|\W)r(i|\W|1)t(y|\W)((\s)?|-|(\s)?-(\s)?)?((A|a|\W)(l|1)(e|\W)rt|(W|w|\W)(a|\W)rn(i|\W|1)ng|(I|i|1|\W)nf(o|\W)(rm(a|\W)t(i|\W|1)(o|\W|0)n)?)
 ##### New Messages or Missed Message
-((N|n)(e|\W)w\s|(M|m)(i|\W|1)(s|\W){2}(e|\W)d\s)(M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?  
-(C|c)urrently\son\shold  
-(A|a)waiting\s(your\s)?further\s(A|a)ction(s)?  
+((N|n)(e|\W)w\s|(M|m)(i|\W|1)(s|\W){2}(e|\W)d\s)(M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?
+##### Currently on hold  
+(C|c|\W)(u|\W)rr(e|\W)ntly\s(o|\W)n\sh(o|\W)ld
+##### Awaiting further Actions 
+(A|a|\W)w(a|\W)(i|\W)t(i|\W)ng\s(y(o|\W)(u|\W)r\s)?f(u|\W)rth(e|\W)r\s(A|a)ct(i|\W)(o|\W)n(s)?
+#####  has left you a message 5 seconds long
+h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s\d+\s(S|s|\W)(e|\W)c(o|\W)nd(s)?\sl(o|\W)ng
+#####
 (Y|y)ou\shave\s(a\s)?(some\s)?file(s)?  
 ((A|a)utomatic\s)?(P|p)assword\s(R|r)eset  
 ((N|n)ew\s)?(E|e)mail\son\s\d{2}(\/)?\d{2}\/\d{2}(\/)?\d{2}  
@@ -45,7 +50,7 @@ temporar(il)?y\sdeactivated
 (S|s)ecure(-|\s)(E|e)?(M|m)ail  
 (E|e)mployee\s(B|b)enefits\s(P|p)olicy  
 ((E|e)-)?(M|m)ail\s(A|a)ccount\s(N|n)otice  
-h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s\d+\s(S|s|\W)(e|\W)c(o|\W)nd(\(s\))?\sl(o|\W)ng  
+
 
 ### French
 (V|v)otre\scompte\sest\sbloqu(é|e)  
