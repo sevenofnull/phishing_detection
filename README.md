@@ -11,10 +11,17 @@ It's a phish.
 
 The list will be updated every now and then  
 
+## Sender contains the following regex
+
+##### will catch @m1crosoft or g0ogle or @c0mpany or @your-c0mpany  
+@([a-z]+[01][a-z]+|[a-z]+\\-[a-z]+[01][a-z]+)  
+
 ## Subject contains the following regex
 
 ### English
-(S|s)hared\s(U|u)sing\s(O|o)ne(D|d)rive\s(F|f)or\s(B|b)usiness  
+##### shared using onedrive for business  
+(S|s|\W)h(a|\W)r(e|\W)d\s(U|u|\W)s(i|\W)ng\s(O|o|\W)n(e|\W)(\s)?(D|d)r(i|\W)v(e|\W)\s(F|f)(o|\W)r\s(B|b)(u|\W)(s|\W)(i|\W)n(e|\W)(s|\W)(s|\W)?
+
 (S|s)ecurity(\s|-|\s-\s)?((A|a)lert|(W|w)arning|(I|i)nfo(rmation)?)  
 ((N|n)ew|(M|m)issed)\s(M|m)essage(s)?  
 (C|c)urrently\son\shold  
@@ -81,4 +88,4 @@ update\syour\s(\w+(-\w+)?\s)?(A|a)ccount\s(I|i)nformation
 (W|w)(\s)?(i|\W|1)(\s)?((l|1)(\s)?){2}\s(\s)?(e|\W)(\s)?x(\s)?p(\s)?(i|\W|1)(\s)?r(\s)?(e|\W)(\s)?\s(\s)?(i|\W|1)(\s)?n(\s)?\s(\s)?\d(\s)?\s(\s)?(D|d)(\s)?(a|\W)(\s)?(y|\W)(\s)?(s)?   
 
 ## Thanks
-SwiftOnSecurity for the starting point
+@SwiftOnSecurity for the starting point
