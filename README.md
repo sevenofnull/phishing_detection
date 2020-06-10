@@ -14,7 +14,9 @@ The list will be updated every now and then
 ## Sender contains the following regex
 
 ##### will catch @m1crosoft or g0ogle or @c0mpany or @your-c0mpany  
-@([a-z]+[01]([01])?[a-z]+|[a-z]+\-[a-z]+[01]([01])?[a-z]+) 
+```
+@([a-z]+[01]([01])?[a-z]+|[a-z]+\-[a-z]+[01]([01])?[a-z]+)
+```
 
 ## Subject contains the following regex
 
