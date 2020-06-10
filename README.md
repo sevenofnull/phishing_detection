@@ -33,12 +33,17 @@ The list will be updated every now and then
 h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s(\W)?\d+(\W)?\s(S|s|\W)(e|\W)c(o|\W)nd(s)?\sl(o|\W)ng
 ##### You have a or some or 5 files
 (Y|y)(o|\W)(u|\W)\sh(a|\W)v(e|\W)\s((a|\W)|s(o|\W)m(e|\W)|(\W)?\d+(\W)?)\sf(i|\W)l(e|\W)(s|\W)?
-##### 
-((A|a)utomatic\s)?(P|p)assword\s(R|r)eset  
-((N|n)ew\s)?(E|e)mail\son\s\d{2}(\/)?\d{2}\/\d{2}(\/)?\d{2}  
-has\sbeen\slimited  
-(W|w)e\shave\slocked  
-has\sbeen\ssuspended  
+##### Automatic Password reset or password reset
+((A|a|\W)(u|\W)t(o|\W)m(a|\W)t(i|\W)c\s)?(P|p)(a|\W)(s|\W){2}w(o|\W)rd\s(R|r)(e|\W)(s|\W)(e|\W)t
+##### New email on 2020/26/23
+((N|n)(e|\W)w\s)?(E|e|\W)(-)?m(a|\W)(i|\W)l\s(o|\W)n\s((\d)(\d)?\W(\d)(\d)?\W(\d){2}((\d){2})?|(\d){4}\W\d(\d)?\W\d(\d)?)
+##### has been limited
+h(a|\W)(s|\W)\sb(e|\W){2}n\sl(i|\W)m(i|\W)t(e|\W)d
+##### we have locked
+(W|w)(e|\W)\sh(a|\W)v(e|\W)\sl(o|\W)ck(e|\W)d
+##### has been suspended
+h(a|\W)(s|\W)\sb(e|\W){2}n\s(s|\W)(u|\W)(s|\W)p(e|\W)nd(e|\W)d
+#####
 (U|u)nusual\s((S|s)ign(-)?in\s)?(A|a)ctivity  
 (Y|y)our\s(A|a)ccount\\s(has|was)  
 (N|n)ew\s((R|r)ecorded\s)?(V|v)oice(\s)?(M|m)ail  
