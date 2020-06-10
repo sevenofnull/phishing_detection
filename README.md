@@ -30,9 +30,10 @@ The list will be updated every now and then
 ##### Awaiting further Actions 
 (A|a|\W)w(a|\W)(i|\W)t(i|\W)ng\s(y(o|\W)(u|\W)r\s)?f(u|\W)rth(e|\W)r\s(A|a)ct(i|\W)(o|\W)n(s)?
 #####  has left you a message 5 seconds long
-h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s\d+\s(S|s|\W)(e|\W)c(o|\W)nd(s)?\sl(o|\W)ng
-#####
-(Y|y)ou\shave\s(a\s)?(some\s)?file(s)?  
+h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?\s(\W)?\d+(\W)?\s(S|s|\W)(e|\W)c(o|\W)nd(s)?\sl(o|\W)ng
+##### You have a or some or 5 files
+(Y|y)(o|\W)(u|\W)\sh(a|\W)v(e|\W)\s((a|\W)|s(o|\W)m(e|\W)|(\W)?\d+(\W)?)\sf(i|\W)l(e|\W)(s|\W)?
+##### 
 ((A|a)utomatic\s)?(P|p)assword\s(R|r)eset  
 ((N|n)ew\s)?(E|e)mail\son\s\d{2}(\/)?\d{2}\/\d{2}(\/)?\d{2}  
 has\sbeen\slimited  
