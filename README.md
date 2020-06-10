@@ -21,9 +21,10 @@ The list will be updated every now and then
 ### English
 ##### shared using onedrive for business  
 (S|s|\W)h(a|\W)r(e|\W)d\s(U|u|\W)s(i|\W)ng\s(O|o|\W)n(e|\W)(\s)?(D|d)r(i|\W)v(e|\W)\s(F|f)(o|\W)r\s(B|b)(u|\W)(s|\W)(i|\W)n(e|\W)(s|\W)(s|\W)?
-
-(S|s)ecurity(\s|-|\s-\s)?((A|a)lert|(W|w)arning|(I|i)nfo(rmation)?)  
-((N|n)ew|(M|m)issed)\s(M|m)essage(s)?  
+##### Security - Alert or Security Alert or Security Warning or Security Info or Security - Information
+(S|s|\W)(e|\W)(c|\W)(u|\W)r(i|\W|1)t(y|\W)((\s)?|-|(\s)?-(\s)?)?((A|a|\W)(l|1)(e|\W)rt|(W|w|\W)(a|\W)rn(i|\W|1)ng|(I|i|1|\W)nf(o|\W)(rm(a|\W)t(i|\W|1)(o|\W|0)n)?)
+##### New Messages or Missed Message
+((N|n)(e|\W)w\s|(M|m)(i|\W|1)(s|\W){2}(e|\W)d\s)(M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?  
 (C|c)urrently\son\shold  
 (A|a)waiting\s(your\s)?further\s(A|a)ction(s)?  
 (Y|y)ou\shave\s(a\s)?(some\s)?file(s)?  
