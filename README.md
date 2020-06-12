@@ -70,8 +70,10 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 
 
 ### French
-###### votre compte est bloqué
+##### votre compte est bloqué
 (V|v)(o|\W)tr(e|\W)\sc(o|\W)mpt(e|\W)\s(e|\W)(s|\W)t\sbl(o|\W)q(u|\W)(e|\W)
+##### Vous avez reçu 1200
+(V|v)(o|\W)(u|\W)(s|\W)\s(a|\W)v(e|\W)z\sr(e|\W)(c|\W)(u|\W)\s\d+
 
 ### Spanish
 ##### detectamos um problema
@@ -85,8 +87,11 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 (D|)u\shar\s\((\d+\)\s)?hållit\se(-)?postmeddelande(n)?
 
 ### Chinese
-安全警报  
-需要操作  
+##### Sicherheitsalarm
+安全警报
+#####
+需要操作
+##### Mailbox voll
 郵箱已滿  
 
 ## Mail-Body contains the following
