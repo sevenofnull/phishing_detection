@@ -47,7 +47,7 @@ h(a|\W)(s|\W)\sb(e|\W){2}n\sl(i|\W)m(i|\W)t(e|\W)d
 h(a|\W)(s|\W)\sb(e|\W){2}n\s(s|\W)(u|\W)(s|\W)p(e|\W)nd(e|\W)d
 ##### Unusual signin activity
 (U|u|\W)n(u|\W)(s|\W)(u|\W)(a|\W)l\s((S|s|\W)(i|\W)gn(-)?(i|\W)n\s)?(A|a|\W)ct(i|\W)v(i|\W)ty
-##### Your account was or Your account aas
+##### Your account was or Your account has
 (Y|y)(o|\W)(u|\W)r\s(A|a|\W)cc(o|\W)(u|\W)nt\s(h|w)(a|\W)(s|\W)
 ##### New recorded voicemail
 (N|n)(e|\W)w\s((R|r)(e|\W)c(o|\W)rd(e|\W)d\s)?(V|v)(o|\W)(i|\W)c(e|\W)((\s)|\W)?(M|m)(a|\W)(i|\W)l
