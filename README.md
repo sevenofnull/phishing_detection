@@ -70,21 +70,21 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 
 
 ### French
-##### votre compte est bloqué
+##### votre compte est bloqué (your account is blocked)
 (V|v)(o|\W)tr(e|\W)\sc(o|\W)mpt(e|\W)\s(e|\W)(s|\W)t\sbl(o|\W)q(u|\W)(e|\W)
-##### Vous avez reçu 1200
+##### Vous avez reçu 1200 (You received 1200)
 (V|v)(o|\W)(u|\W)(s|\W)\s(a|\W)v(e|\W)z\sr(e|\W)(c|\W)(u|\W)\s\d+
 
 ### Spanish
-##### detectamos um problema
+##### detectamos um problema (we detected a problem)
 (D|d)(e|\W)t(e|\W)ct(a|\W)m(o|\W)(s|\W)\s(u|\W)m\s(P|p)r(o|\W)bl(e|\W)m(a|\W) 
 
 ### German
-##### Überprüfung erforderlich
+##### Überprüfung erforderlich (Review required)
 (U|u|\W)b(e|\W)rpr(u|\W)f(u|\W)ng\s(e|\W)rf(o|\W)rd(e|\W)rl(i|\W)ch
 
 ### Swedish
-##### Du har 5 hållit epostmeddelanden
+##### Du har 5 hållit epostmeddelanden (You have 5 emails)
 (D|d)(u|\W)\sh(a|\W)r\s((\d+)\s)?h(a|\W)ll(i|\W)t\se(-)?p(o|\W)(s|\W)tm(e|\W)dd(e|\W)l(a|\W)nd(e|\W)(n)?  
 
 ### Chinese
