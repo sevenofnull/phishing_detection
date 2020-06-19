@@ -88,11 +88,11 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 (D|d)(u|\W)\sh(a|\W)r\s((\d+)\s)?h(a|\W)ll(i|\W)t\se(-)?p(o|\W)(s|\W)tm(e|\W)dd(e|\W)l(a|\W)nd(e|\W)(n)?  
 
 ### Chinese
-##### Sicherheitsalarm
+##### Security alert
 安全警报
-#####
+##### Need to operate
 需要操作
-##### Mailbox voll
+##### Mailbox full
 郵箱已滿  
 
 ## Mail-Body contains the following
