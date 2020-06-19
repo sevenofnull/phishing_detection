@@ -84,7 +84,8 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 (U|u|\W)b(e|\W)rpr(u|\W)f(u|\W)ng\s(e|\W)rf(o|\W)rd(e|\W)rl(i|\W)ch
 
 ### Swedish
-(D|)u\shar\s\((\d+\)\s)?hållit\se(-)?postmeddelande(n)?
+##### Du har 5 hållit epostmeddelanden
+(D|d)(u|\W)\sh(a|\W)r\s((\d+)\s)?h(a|\W)ll(i|\W)t\se(-)?p(o|\W)(s|\W)tm(e|\W)dd(e|\W)l(a|\W)nd(e|\W)(n)?  
 
 ### Chinese
 ##### Sicherheitsalarm
@@ -103,6 +104,24 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 ## Mail-Body contains the following regex
 
 ### English
+##### Update your account record
+((u|\W)pd(a|\W)t(e|\W)d\s)?y(o|\W)(u|\W)r\s(a|\W)cc(o|\W)(u|\W)nt\sr(e|\W)c(o|\W)rd
+
+##### suspicious activity
+(s|\W)(u|\W)(s|\W)p(i|\W)c(i|\W)(o|\W)(u|\W)s\s(a|\W)ct(i|\W)v(i|\W)t(y|ies|(i|\W)(e|\W)(s|\W))
+
+##### blocked your online
+bl(o|\W)ck(e|\W)d\s(y(o|\W)(u|\W)r\s)?(o|\W)nl(i|\W)n(e|\W)
+
+##### sign in with your email address
+sign\sin\S{0,7}(\swith)?\syour\semail\saddress
+
+##### Securly (whatever) OneDrive,dropbox Google Drive
+(S|s)ecurely\s\S{0,7}(\sto)?(\s)?one(\s|-)?drive  
+(S|s)ecurely\s\S{0,7}(\sto)?(\s)?drop(\s|-)?box  
+(S|s)ecurely\s\S{0,7}(\sto)?(\s)? (G|g)oogle(\s|-)?(D|d)rive  
+
+##### Others
 (Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto  
 that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
 (I|i)nformations\shas\sbeen  
@@ -119,10 +138,12 @@ update\syour\s(\w+(-\w+)?\s)?(A|a)ccount\s(I|i)nformation
 (W|w)(\s)?(i|\W|1)(\s)?((l|1)(\s)?){2}\s(\s)?(e|\W)(\s)?x(\s)?p(\s)?(i|\W|1)(\s)?r(\s)?(e|\W)(\s)?\s(\s)?(i|\W|1)(\s)?n(\s)?\s(\s)?\d(\s)?\s(\s)?(D|d)(\s)?(a|\W)(\s)?(y|\W)(\s)?(s)?
 has\sfailed\sto\sload  
 
-### SCAM
-##### Bitcoin
+
+### SCAM 
+##### Bitcoin (if you have no business with crypto-currenies)
 [13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and Bitcoin
 
 
 ## Thanks
 @SwiftOnSecurity for the starting point
+@packet_Wire for the motivation
