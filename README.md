@@ -124,6 +124,9 @@ sign\sin\S{0,7}(\swith)?\syour\semail\saddress
 ##### Will expire in 4 Days (also W i l l  e x p i r e  i n  4  d a y s)
 (W|w)(\s)?(i|\W|1)(\s)?((l|1)(\s)?){2}\s(\s)?(e|\W)(\s)?x(\s)?p(\s)?(i|\W|1)(\s)?r(\s)?(e|\W)(\s)?\s(\s)?(i|\W|1)(\s)?n(\s)?\s(\s)?\d(\s)?\s(\s)?(D|d)(\s)?(a|\W)(\s)?(y|\W)(\s)?(s)?
 
+##### docs.google[.]com/document  
+docs\.google\.com\/document\/\w\/\w\/\d\w+\-\w+(\-)?\w+\/pub
+
 ##### Others
 (Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto  
 that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
