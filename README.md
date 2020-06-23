@@ -67,7 +67,8 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 (E|e|\W)mpl(o|\W)y(e|\W){2}(\s|\s\W\s|\W)(B|b)(e|\W)n(e|\W)f(i|\W)t(s)?(\s|\s\W\s|\W)(P|p)(o|\W)l(i|\W)(c|\W)y
 ##### mail account notice
 (M|m)(a|\W)(i|\W)l\s(A|a|\W)(c|\W){2}(o|\W)(u|\W)nt\s(N|n)(o|\W)t(i|\W)(c|\W)(e|\W)
-
+##### Mail delivery failed: [10] messages /emails
+(M|m)(a|\W)(i|\W)l\sd(e|\W)l(i|\W)v(e|\W)ry\sf(a|\W)(i|\W)l(e|\W)d\W+\s\W\d+\W\s((M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s|\W)?|(E|e|\W)?(\-)?(M|m)(a|\W)(i|\W)l(s|\W)?)  
 
 ### French
 ##### votre compte est bloqué (your account is blocked)
@@ -106,27 +107,20 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 ### English
 ##### Update your account record
 ((u|\W)pd(a|\W)t(e|\W)d\s)?y(o|\W)(u|\W)r\s(a|\W)cc(o|\W)(u|\W)nt\sr(e|\W)c(o|\W)rd
-
 ##### suspicious activity
 (s|\W)(u|\W)(s|\W)p(i|\W)c(i|\W)(o|\W)(u|\W)s\s(a|\W)ct(i|\W)v(i|\W)t(y|ies|(i|\W)(e|\W)(s|\W))
-
 ##### blocked your online
 bl(o|\W)ck(e|\W)d\s(y(o|\W)(u|\W)r\s)?(o|\W)nl(i|\W)n(e|\W)
-
 ##### sign in with your email address
 sign\sin\S{0,7}(\swith)?\syour\semail\saddress
-
 ##### Securly (whatever) OneDrive,dropbox Google Drive
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)?one(\s|-)?drive  
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)?drop(\s|-)?box  
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)? (G|g)oogle(\s|-)?(D|d)rive  
-
 ##### Will expire in 4 Days (also W i l l  e x p i r e  i n  4  d a y s)
 (W|w)(\s)?(i|\W|1)(\s)?((l|1)(\s)?){2}\s(\s)?(e|\W)(\s)?x(\s)?p(\s)?(i|\W|1)(\s)?r(\s)?(e|\W)(\s)?\s(\s)?(i|\W|1)(\s)?n(\s)?\s(\s)?\d(\s)?\s(\s)?(D|d)(\s)?(a|\W)(\s)?(y|\W)(\s)?(s)?
-
 ##### docs.google[.]com/document  
 docs\.google\.com\/document\/\w\/\w\/\d\w+\-\w+(\-)?\w+\/pub
-
 ##### Others
 (Y|y)our\s(A|a)pple(\s|-)?(I|i)(D|d)\swas\sused\sto\ssign(\s|-)in\sto  
 that\syou\svalidate\syour\s(\w+(-\w+)?\s)?(A|a)ccount  
