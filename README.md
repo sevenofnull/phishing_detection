@@ -17,7 +17,10 @@ The list will be updated every now and then
 ```
 @([a-z]+[01]([01])?[a-z]+|[a-z]+\-[a-z]+[01]([01])?[a-z]+)
 ```
-
+##### will catch some double tld
+```
+\@\w+\-(com|biz|org|net)\.\w{2,3}
+```
 ## Subject contains the following regex
 
 ### English
