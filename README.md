@@ -119,7 +119,7 @@ you\shave\snew\s(held\s)?messages
 bl(o|\W)ck(e|\W)d\s(y(o|\W)(u|\W)r\s)?(o|\W)nl(i|\W)n(e|\W)
 ##### sign in with your email address
 sign\sin\S{0,7}(\swith)?\syour\semail\saddress
-##### Securly (whatever) OneDrive,dropbox Google Drive
+##### Securely (whatever) OneDrive,dropbox Google Drive
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)?one(\s|-)?drive  
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)?drop(\s|-)?box  
 (S|s)ecurely\s\S{0,7}(\sto)?(\s)? (G|g)oogle(\s|-)?(D|d)rive  
@@ -145,7 +145,7 @@ has\sfailed\sto\sload
 
 
 ### SCAM 
-##### Bitcoin (if you have no business with crypto-currenies)
+##### Bitcoin (if you have no business with crypto-currencies)
 [13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and Bitcoin
 
 
