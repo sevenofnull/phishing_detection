@@ -73,6 +73,9 @@ t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 ##### Mail delivery failed: [10] messages /emails
 (M|m)(a|\W)(i|\W)l\sd(e|\W)l(i|\W)v(e|\W)ry\sf(a|\W)(i|\W)l(e|\W)d\W+\s\W\d+\W\s((M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s|\W)?|(E|e|\W)?(\-)?(M|m)(a|\W)(i|\W)l(s|\W)?)  
 
+##### quick ones
+you\shave\snew\s(held\s)?messages  
+
 ### French
 ##### votre compte est bloqué (your account is blocked)
 (V|v)(o|\W)tr(e|\W)\sc(o|\W)mpt(e|\W)\s(e|\W)(s|\W)t\sbl(o|\W)q(u|\W)(e|\W)
