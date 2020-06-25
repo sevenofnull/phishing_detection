@@ -24,8 +24,10 @@ The list will be updated every now and then
 ## Subject contains the following regex
 
 ### English
-##### shared using onedrive for business  
-(S|s|\W)h(a|\W)r(e|\W)d\s(U|u|\W)s(i|\W)ng\s(O|o|\W)n(e|\W)(\s)?(D|d)r(i|\W)v(e|\W)\s(F|f)(o|\W)r\s(B|b)(u|\W)(s|\W)(i|\W)n(e|\W)(s|\W)(s|\W)?
+##### shared using onedrive for business
+shared\susing\sonedrive\sfor\sbusiness  <- simple lookup for the senctence  
+shared\susing\s(O|o)ne(\s|-)?(D|d)rive\sfor\s(B|b)usiness  <- more advanced looking for deviations of the subject  
+(S|s|\W)h(a|\W)r(e|\W)d\s(U|u|\W)s(i|\W)ng\s(O|o|\W)n(e|\W)(\s)?(D|d)r(i|\W)v(e|\W)\s(F|f)(o|\W)r\s(B|b)(u|\W)(s|\W)(i|\W)n(e|\W)(s|\W)(s|\W)?  <- Tries to catch also none word charactes like í or è, in case threat actors trying evasion  
 ##### Security - Alert or Security Alert or Security Warning or Security Info or Security - Information
 (S|s|\W)(e|\W)(c|\W)(u|\W)r(i|\W|1)t(y|\W)((\s)?|-|(\s)?-(\s)?)?((A|a|\W)(l|1)(e|\W)rt|(W|w|\W)(a|\W)rn(i|\W|1)ng|(I|i|1|\W)nf(o|\W)(rm(a|\W)t(i|\W|1)(o|\W|0)n)?)
 ##### New Messages or Missed Message
