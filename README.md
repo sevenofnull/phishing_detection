@@ -112,6 +112,12 @@ you\shave\snew\s(held\s)?messages
 
 ## Mail-Body contains the following regex
 
+### Vulnerability Outlook (replacing links with double href and img in between)
+https://isc.sans.edu/diary/Broken+phishing+accidentally+exploiting+Outlook+zero-day/26254  
+```
+(href|HREF)\=\"(http|HTTP)(s|S)?\:(\/){2}.*?\"\>\<(img|IMG)\>\<\/(a|A)\>\<(a\shref|A\sHREF)\=\"(http|HTTP)
+```
+
 ### English
 ##### Update your account record
 ((u|\W)pd(a|\W)t(e|\W)d\s)?y(o|\W)(u|\W)r\s(a|\W)cc(o|\W)(u|\W)nt\sr(e|\W)c(o|\W)rd
