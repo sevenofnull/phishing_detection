@@ -9,23 +9,23 @@ Elementary: Security\s(Alert|Warning|Info)
 Intermediate: (S|s)ecurity\s(\-\s)?((A|a)lert|(W|w)arning|(I|i)nfo)    
 Advanced: (S|s|\W)(e|\W)(c|\W)(u|\W)r(i|\W|1)t(y|\W)((\s)?|-|(\s)?-(\s)?)?((A|a|\W)(l|1)(e|\W)rt|(W|w|\W)(a|\W)rn(i|\W|1)ng|(I|i|1|\W)nf(o|\W)(rm(a|\W)t(i|\W|1)(o|\W|0)n)?)
 ##### New Messages or Missed Message
-Elementary:   
-Intermediate:  
+Elementary: (New|Missed)\sMessage(s)?  
+Intermediate: ((N|n)ew|(M|m)issed)\s(M|m)essage(s)?  
 Advanced: ((N|n)(e|\W)w\s|(M|m)(i|\W|1)(s|\W){2}(e|\W)d\s)(M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?
 ##### Currently on hold  
-Elementary:  
-Intermediate:  
+Elementary: (C|c)urrently\son\shold 
+Intermediate: n/a  
 Advanced: (C|c|\W)(u|\W)rr(e|\W)ntly\s(o|\W)n\sh(o|\W)ld
 ##### Awaiting further Actions 
-Elementary:  
-Intermediate:  
+Elementary: awaiting\sfurther\sActions 
+Intermediate: (A|a)waiting\sfurther\s(A|a)ction(s)? 
 Advanced: (A|a|\W)w(a|\W)(i|\W)t(i|\W)ng\s(y(o|\W)(u|\W)r\s)?f(u|\W)rth(e|\W)r\s(A|a)ct(i|\W)(o|\W)n(s)?
 ##### has left you a message
-Elementary:  
-Intermediate:  
+Elementary: has\sleft\syou\sa\smessage  
+Intermediate: has\sleft\syou\s(a|\d+)\smessage(s)?  
 Advanced: h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?
 ##### You have some files
-Elementary:  
+Elementary: 
 Intermediate:  
 Advanced: (Y|y)(o|\W)(u|\W)\sh(a|\W)v(e|\W)\s((a|\W)|s(o|\W)m(e|\W)|(\W)?\d+(\W)?)\sf(i|\W)l(e|\W)(s|\W)?
 ##### Automatic Password reset or Password reset
@@ -96,7 +96,7 @@ Advanced: (M|m)(a|\W)(i|\W)l\s(A|a|\W)(c|\W){2}(o|\W)(u|\W)nt\s(N|n)(o|\W)t(i|\W
 Elementary:  
 Intermediate:  
 Advanced: (M|m)(a|\W)(i|\W)l\sd(e|\W)l(i|\W)v(e|\W)ry\sf(a|\W)(i|\W)l(e|\W)d\W+\s\W\d+\W\s((M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s|\W)?|(E|e|\W)?(\-)?(M|m)(a|\W)(i|\W)l(s|\W)?)  
-##### quick ones
+##### you have new held messages
 Elementary: you\shave\snew\s(held\s)?messages  
 Intermediate: 
 Advanced: 
