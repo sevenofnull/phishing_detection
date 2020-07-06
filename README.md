@@ -29,7 +29,7 @@ Advanced:
 ```
 ## Subject contains the following regex
 
-##English moved to folder subject/subject-ebnglish.txt
+## English moved to folder subject/subject-ebnglish.txt
 
 ### French
 ##### votre compte est bloqué (your account is blocked)
