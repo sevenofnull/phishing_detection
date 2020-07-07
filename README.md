@@ -19,17 +19,11 @@ Advanced:
 
 ## Sender contains the following regex
 
-##### will catch @m1crosoft or g0ogle or @c0mpany or @your-c0mpany  
-```
-@([a-z]+[01]([01])?[a-z]+|[a-z]+\-[a-z]+[01]([01])?[a-z]+)
-```
-##### will catch some double tld
-```
-\@\w+\-(com|biz|org|net)\.\w{2,3}
-```
+### Sender moved to folder sender/sender.txt
+
 ## Subject contains the following regex
 
-## English moved to folder subject/subject-ebnglish.txt
+### English moved to folder subject/subject-english.txt
 
 ### French
 ##### votre compte est bloqué (your account is blocked)
