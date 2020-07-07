@@ -101,7 +101,7 @@ has\sfailed\sto\sload
 
 ### SCAM 
 ##### Bitcoin (if you have no business with crypto-currencies)
-[13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and Bitcoin
+[13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and ((B|b)itcoin|BTC)
 
 
 ## Thanks
