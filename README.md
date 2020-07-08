@@ -1,15 +1,10 @@
 # Phishing detection
 
-Just for clarification, this will help to catch mass phishing emails.  
-Not customized for you (your company).
-
 If it looks like a duck,  
 walks like a duck and  
 sounds like a duck.  
 Hover over the link...  
 It's a phish.  
-
-The list will be updated every now and then  
 
 Splitt the list now into different files and add different version.
 
