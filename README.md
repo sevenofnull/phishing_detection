@@ -14,12 +14,11 @@ Advanced:
 
 ## Sender contains the following regex
 
-### Sender moved to folder sender/sender.txt
+### Sender moved to folder sender/sender.md
 
 ## Subject contains the following regex
 
-### English moved to folder subject/subject-english.txt
-
+### English / French moved to folder subject/
 
 ### Spanish
 ##### detectamos um problema (we detected a problem)
