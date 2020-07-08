@@ -13,32 +13,32 @@ Elementary: (New|Missed)\sMessage(s)?
 Intermediate: ((N|n)ew|(M|m)issed)\s(M|m)essage(s)?  
 Advanced: ((N|n)(e|\W)w\s|(M|m)(i|\W|1)(s|\W){2}(e|\W)d\s)(M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?
 #### Currently on hold  
-Elementary: (C|c)urrently\son\shold 
+Elementary: (C|c)urrently\son\shold  
 Intermediate: n/a  
 Advanced: (C|c|\W)(u|\W)rr(e|\W)ntly\s(o|\W)n\sh(o|\W)ld
 #### Awaiting further Actions 
-Elementary: awaiting\sfurther\sActions 
-Intermediate: (A|a)waiting\sfurther\s(A|a)ction(s)? 
+Elementary: awaiting\sfurther\sActions  
+Intermediate: (A|a)waiting\sfurther\s(A|a)ction(s)?  
 Advanced: (A|a|\W)w(a|\W)(i|\W)t(i|\W)ng\s(y(o|\W)(u|\W)r\s)?f(u|\W)rth(e|\W)r\s(A|a)ct(i|\W)(o|\W)n(s)?
 #### has left you a message
 Elementary: has\sleft\syou\sa\smessage  
 Intermediate: has\sleft\syou\s(a|\d+)\smessage(s)?  
 Advanced: h(a|\W)s\sl(e|\W)ft\sy(o|\W)(u|\W)\s((a|\W|\d)\s)?m(e|\W)(s|\W){2}(a|\W)g(e|\W)(s)?
 #### You have some files
-Elementary: 
-Intermediate:  
+Elementary: (Y|y)ou\shave\ssome\sfiles  
+Intermediate: n/a  
 Advanced: (Y|y)(o|\W)(u|\W)\sh(a|\W)v(e|\W)\s((a|\W)|s(o|\W)m(e|\W)|(\W)?\d+(\W)?)\sf(i|\W)l(e|\W)(s|\W)?
-#### Automatic Password reset or Password reset
-Elementary:  
-Intermediate:  
-Advanced: ((A|a|\W)(u|\W)t(o|\W)m(a|\W)t(i|\W)c\s)?(P|p)(a|\W)(s|\W){2}w(o|\W)rd\s(R|r)(e|\W)(s|\W)(e|\W)t
-#### New email on 2020/26/23
-Elementary:  
-Intermediate:  
-Advanced: ((N|n)(e|\W)w\s)?(E|e|\W)(-)?m(a|\W)(i|\W)l\s(o|\W)n\s((\d)(\d)?\W(\d)(\d)?\W(\d){2}((\d){2})?|(\d){4}\W\d(\d)?\W\d(\d)?)
+#### Automatic Password reset
+Elementary: Automatic\sPassword\sreset  
+Intermediate: (A|a)utomatic\s(P|p)assword\sreset  
+Advanced: (A|a|\W)(u|\W)t(o|\W)m(a|\W)t(i|\W)c\s(P|p)(a|\W)(s|\W){2}w(o|\W)rd\s(R|r)(e|\W)(s|\W)(e|\W)t
+#### email on 06/23/2020
+Elementary: email\son\s\d{2}\/\d{2}\/\d{4}  
+Intermediate: email\son\s((\d)(\d)?\W(\d)(\d)?\W(\d){2}((\d){2})?|(\d){4}\W\d(\d)?\W\d(\d)?)  
+Advanced: (E|e|\W)(-)?m(a|\W)(i|\W)l\s(o|\W)n\s((\d)(\d)?\W(\d)(\d)?\W(\d){2}((\d){2})?|(\d){4}\W\d(\d)?\W\d(\d)?)
 #### has been limited
-Elementary:  
-Intermediate:  
+Elementary: has\sbeen\slimited  
+Intermediate: n\a  
 Advanced: h(a|\W)(s|\W)\sb(e|\W){2}n\sl(i|\W)m(i|\W)t(e|\W)d
 #### we have locked
 Elementary:  
