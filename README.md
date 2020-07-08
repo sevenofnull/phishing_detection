@@ -20,11 +20,6 @@ Advanced:
 
 ### English moved to folder subject/subject-english.txt
 
-### French
-##### votre compte est bloqué (your account is blocked)
-(V|v)(o|\W)tr(e|\W)\sc(o|\W)mpt(e|\W)\s(e|\W)(s|\W)t\sbl(o|\W)q(u|\W)(e|\W)
-##### Vous avez reçu 1200 (You received 1200)
-(V|v)(o|\W)(u|\W)(s|\W)\s(a|\W)v(e|\W)z\sr(e|\W)(c|\W)(u|\W)\s\d+
 
 ### Spanish
 ##### detectamos um problema (we detected a problem)
