@@ -65,38 +65,40 @@ Elementary: Password\sexpired
 Intermediate: (P|p)assword\sexpired  
 Advanced: (P|p)(a|\W)(s|\W){2}w(o|\W)rd(\s|\s\W\s|\W)(E|e|\W)xp(i|\W)r(e|\W)d
 #### Notifications pending
-Elementary:  
-Intermediate:  
+Elementary: Notifications\spending  
+Intermediate: (N|n)otification(s)?\spending  
 Advanced: (N|n)(o|\W)t(i|\W)f(i|\W)c(a|\W)t(i|\W)(o|\W)n(s)?(\s|\s\W\s|\W)(P|p)(e|\W)nd(i|\W)ng
 #### Account is on hold
-Elementary:  
-Intermediate:  
+Elementary: Account\sis\son\shold  
+Intermediate: (A|a)ccount\sis\son\shold  
 Advanced: (A|a|\W)cc(o|\W)(u|\W)nt\s((i|\W)(s|\W)\s)?(o|\W)n\sh(o|\W)ld
 #### Verification required or Verification notification or Verification request
-Elementary:  
-Intermediate:  
+Elementary: Verification\s(required|notification|request)  
+Intermediate: (V|v)erification\s(required|(N|n)otification|request)  
 Advanced: (V|v)(e|\W)r(i|\W)f(i|\W)c(a|\W)t(i|\W)(o|\W)n\s((R|r)(e|\W)q(u|\W)(i|\W)r(e|\W)d|(N|n)(o|\W)t(i|\W)f(i|\W)c(a|\W)t(i|\W)(o|\W)n|(R|r)(e|\W)q(u|\W)(e|\W)(s|\W)t)
 #### temporarily deactivated
-Elementary:  
-Intermediate:  
+Elementary: temporarily\sdeactivated  
+Intermediate: n\a  
 Advanced: t(e|\W)mp(o|\W)r(a|\W)r((i|\W)l)?y\sd(e|\W)(a|\W)ct(i|\W)v(a|\W)t(e|\W)d
 #### secure update or secure email or security update or security email
-Elementary:  
-Intermediate:  
+Elementary: secur(e|ity)\s(update|email)  
+Intermediate: (S|s)ecur(e|ity)\s(update|e(\-)?mail)  
 Advanced: (S|s|\W)(e|\W)c(u|\W)r((e|\W)|(i|\W)ty)(\s|\s\W\s|\W)((U|u|\W)pd(a|\W)t(e|\W)|(E|e|\W)?(\W)?(M|m)(a|\W)(i|\W)l)
 #### Employee benefits Policy
-Elementary:  
-Intermediate:  
+Elementary: Employee\sBenefits\sPolicy  
+Intermediate: (E|e)mployee\s(B|b)enefits\s(P|p)olicy  
 Advanced: (E|e|\W)mpl(o|\W)y(e|\W){2}(\s|\s\W\s|\W)(B|b)(e|\W)n(e|\W)f(i|\W)t(s)?(\s|\s\W\s|\W)(P|p)(o|\W)l(i|\W)(c|\W)y
 #### mail account notice
-Elementary:  
-Intermediate:  
+Elementary: mail\saccount\snotice  
+Intermediate: (M|m)ail\s(A|a)ccount\s(N|n)otice  
 Advanced: (M|m)(a|\W)(i|\W)l\s(A|a|\W)(c|\W){2}(o|\W)(u|\W)nt\s(N|n)(o|\W)t(i|\W)(c|\W)(e|\W)
-#### Mail delivery failed: [10] messages /emails
-Elementary:  
-Intermediate:  
-Advanced: (M|m)(a|\W)(i|\W)l\sd(e|\W)l(i|\W)v(e|\W)ry\sf(a|\W)(i|\W)l(e|\W)d\W+\s\W\d+\W\s((M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s|\W)?|(E|e|\W)?(\-)?(M|m)(a|\W)(i|\W)l(s|\W)?)  
+#### delivery failed: [10] messages / emails
+Elementary: delivery\sfailed\:\s\[10\]\s(messages|emails)  
+Intermediate: delivery\sfailed\:\s\W10\W\s(message|e(\-)?mail)  
+Advanced: d(e|\W)l(i|\W)v(e|\W)ry\sf(a|\W)(i|\W)l(e|\W)d\W+\s\W\d+\W\s((M|m)(e|\W)(s|\W){2}(a|\W)g(e|\W)(s|\W)?|(E|e|\W)?(\-)?(M|m)(a|\W)(i|\W)l  
 #### you have new held messages
-Elementary: you\shave\snew\s(held\s)?messages  
-Intermediate: 
-Advanced: 
+Elementary: you\shave\snew\sheld  
+Intermediate: you\shave\snew\s(held)? 
+Advanced: y(o|\W)(u|\W)\sh(a|\W)v(e|\W)\sn(e|\W)w\sh(e|\W)ld 
+#### ATTN:
+Elementary: ATTN\:
