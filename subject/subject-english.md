@@ -41,28 +41,28 @@ Elementary: has\sbeen\slimited
 Intermediate: n\a  
 Advanced: h(a|\W)(s|\W)\sb(e|\W){2}n\sl(i|\W)m(i|\W)t(e|\W)d
 #### we have locked
-Elementary:  
-Intermediate:  
+Elementary: we\shave\slocked  
+Intermediate: n\a  
 Advanced: (W|w)(e|\W)\sh(a|\W)v(e|\W)\sl(o|\W)ck(e|\W)d
 #### has been suspended
-Elementary:  
-Intermediate:  
+Elementary: has\sbeen\ssuspended  
+Intermediate: n\a  
 Advanced: h(a|\W)(s|\W)\sb(e|\W){2}n\s(s|\W)(u|\W)(s|\W)p(e|\W)nd(e|\W)d
 #### Unusual signin activity
-Elementary:  
-Intermediate:  
+Elementary: Unusual\ssignin\sactivity  
+Intermediate: (U|u)nusual\ssign(-)?in\sactivit(y|ies)  
 Advanced: (U|u|\W)n(u|\W)(s|\W)(u|\W)(a|\W)l\s((S|s|\W)(i|\W)gn(-)?(i|\W)n\s)?(A|a|\W)ct(i|\W)v(i|\W)ty
 #### Your account was or Your account has
-Elementary:  
-Intermediate:  
+Elementary: Your\saccount\s(w|h)as  
+Intermediate: (Y|<)our\s(A|a)ccount\s(w|h)as  
 Advanced: (Y|y)(o|\W)(u|\W)r\s(A|a|\W)cc(o|\W)(u|\W)nt\s(h|w)(a|\W)(s|\W)
 #### New recorded voicemail
-Elementary:  
-Intermediate:  
+Elementary: New\srecorded\svoicemail  
+Intermediate: (N|n)ew\srecorded\s(V|v)oicemail  
 Advanced: (N|n)(e|\W)w\s((R|r)(e|\W)c(o|\W)rd(e|\W)d\s)?(V|v)(o|\W)(i|\W)c(e|\W)((\s)|\W)?(M|m)(a|\W)(i|\W)l
 #### Password expired
-Elementary:  
-Intermediate:  
+Elementary: Password\sexpired  
+Intermediate: (P|p)assword\sexpired  
 Advanced: (P|p)(a|\W)(s|\W){2}w(o|\W)rd(\s|\s\W\s|\W)(E|e|\W)xp(i|\W)r(e|\W)d
 #### Notifications pending
 Elementary:  
