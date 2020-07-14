@@ -90,7 +90,7 @@ has\sfailed\sto\sload
 
 ### SCAM 
 ##### Bitcoin (if you have no business with crypto-currencies)
-[13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and ((B|b)itcoin|BTC)
+[13][a-km-zA-HJ-NP-Z1-9]{25,34}\\s and ((B|b)itcoin|BTC\s(W|w)allet)
 
 
 ## Thanks
