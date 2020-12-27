@@ -4,7 +4,7 @@ If it looks like a duck,
 walks like a duck and  
 sounds like a duck.  
 Hover over the link...  
-It's a phish.  
+It's a phish!  
 
 Splitt the list now into different files and add different version.
 
